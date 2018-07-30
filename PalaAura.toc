@@ -1,0 +1,13 @@
+## Interface: 80000
+## Author: Foxxy
+## Title: PalaAura
+## Version 0.1
+## Notes: Shows remaining duration of the procs for Retribution Paladins
+## DefaultState: enabled
+## SavedVariables: AuraTrackerDB
+
+config.lua
+BuffUI.lua
+combat.lua
+init.lua
+
