@@ -1,0 +1,11 @@
+## Interface: 80000
+## Title: PalaAura
+## Version 0.1
+## Notes: Shows remaining duration of the procs for Retribution Paladins
+## DefaultState: enabled
+
+config.lua
+BuffUI.lua
+combat.lua
+init.lua
+
