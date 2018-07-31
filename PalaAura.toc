@@ -8,6 +8,7 @@
 
 config.lua
 BuffUI.lua
-combat.lua
+functions.lua
+time.lua
 init.lua
 

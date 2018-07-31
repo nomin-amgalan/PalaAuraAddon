@@ -100,15 +100,6 @@ addonLoadEvent:SetScript("OnEvent", core.init)
 
 local frame, events = CreateFrame("Frame"), {};
 
--- function events:PLAYER_REGEN_DISABLED(...)
-	--core.combatStatus = true
-	--core:inCombat()
---end 
-
---function events:PLAYER_REGEN_ENABLED(...)
-	--core.combatStatus = false
-	--core:outCombat()
---end
 
 function events:PLAYER_ENTERING_WORLD(...)
   core.showUI()
